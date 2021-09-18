@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Comlib:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Comlib_jar</output-path>
+    <root id="archive" name="Comlib.jar">
+      <element id="module-output" name="Comlib" />
+    </root>
+  </artifact>
+</component>
